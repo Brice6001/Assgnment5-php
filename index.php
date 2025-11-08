@@ -5,7 +5,8 @@
 <head>
     <title>Customer List</title>
 </head>
-<body>
+<body style="font-family:Arial; background:#f2f2f2; padding:20px;">
+    
 <h2>Customer List</h2>
 <a href="add.php">Add Customer</a><br><br>
 
