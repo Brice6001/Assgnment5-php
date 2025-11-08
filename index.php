@@ -7,10 +7,17 @@
 </head>
 <body style="font-family:Arial; background:#f2f2f2; padding:20px;">
     
-<h2>Customer List</h2>
+<h2 style="text-align:center;">Customer List</h2>
+<div style="text-align:center; margin-bottom:15px;">
+<a href="add.php"
+style="text-decoration:none; background:#28a745; padding:10px 15px; color:white; border-radius:5px;">Add New Customer</a>
+</div>
+
+<tr style="background:#333; color:white;">
 <a href="add.php">Add Customer</a><br><br>
 
-<table border="1" cellpadding="8">
+<table border="1" cellpadding="8" table border="1" cellpadding="8" cellspacing="0" style="width:100%; background:white; border-collapse:collapse;">
+>
 <tr>
     <th>ID</th>
     <th>Name</th>
